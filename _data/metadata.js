@@ -7,7 +7,7 @@ module.exports = {
 
   author: {
     name: "Jackson Lugun",
-    // email: "john@doe.com",
+    email: "hey@jacklugun.com",
     url: "https://jacklugun.com",
     photo: "/assets/images/JacksonLugun.jpeg",
     // Social media handles - remove or comment out any you don't use
