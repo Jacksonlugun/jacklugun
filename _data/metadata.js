@@ -11,9 +11,9 @@ module.exports = {
     url: "https://jacklugun.com",
     photo: "/assets/images/JacksonLugun.jpeg",
     // Social media handles - remove or comment out any you don't use
-    x: "jacksonlugun",
+    x: "https://x.com/jacksonlugun",
     //github: "https://github.com/deepakness/crispwrite",
-    linkedin: "jackson-lugun",
+    linkedin: "https://www.linkedin.com/in/jackson-lugun/",
     //youtube: "johndoe",
     // facebook: "johndoe",
     // instagram: "johndoe",
