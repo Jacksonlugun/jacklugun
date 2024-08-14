@@ -11,4 +11,4 @@ I love connecting brands with their target audience and improving website visibi
 
 Let's work together!
 
-🎉 You can reach me at hey@jacklugun.com, [X](https://x.com/jacksonlugun), and [LinkedIn](https://www.linkedin.com/in/jackson-lugun/).
+🎉 You can reach me at `hey@jacklugun.com`.
